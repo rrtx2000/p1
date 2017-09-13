@@ -1,0 +1,13 @@
+html, body {
+     height:100%;
+     width: 100%;
+}
+
+.mycenter {
+     text-align: center;
+}
+
+#thatsall{
+     font-style: italic;
+     color: #00F;
+}
